@@ -1,0 +1,54 @@
+body {
+  width: 600px;
+  margin: 0 auto;
+  font-family: helvetica neue, arial, sans-serif;
+  color: black; 
+  background-color: deepskyblue;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+#title {
+  float: right;
+}
+
+#graphic {
+  float: center;
+}
+
+#summary {
+  clear: both;
+  background-color: floralwhite;
+  padding: 18px;
+  border: 2px solid black;
+  margin-top: 18px;
+}
+
+h2 {
+  border-bottom: 2px solid red;
+}
+
+#amenities{
+  margin: 18px;
+  margin-left: 0px;
+  font-size: 18px;
+  line-height: 24px;
+  width: 600px;
+}
+
+#units {
+  width: 600px;
+  height: 150px;
+  margin: 18px;
+  margin-left: 0px;
+  border-collapse: separate;
+  empty-cells: hide;
+  font-size: 18px;
+  line-height: 27px;
+}
+
+#link {
+  font-size: 15px;
+  float: right;
+}
